@@ -1,2 +1,2 @@
-# Stack_in_C
+# Stack in C
 Simple stack example
